@@ -20,3 +20,10 @@ document.getElementById("helloBtn").addEventListener("click", function() {
 ```
 
 Open the file in your browser and click the button to see the alert.
+
+## Example: Simple Shooting Game
+
+This repository includes `game.html`, a minimal shooting game using HTML5 canvas.
+Open the file in your browser. Use the left and right arrow keys to move the
+player and press the space bar to fire. Try to score 10 points within one
+minute or the game will end.
